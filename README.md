@@ -103,15 +103,11 @@
 ### Подстановка в формы
 ![Скриншот 1](screenshots/Screenshot_1.png)
 
-### Настройки плагина  
+### Шорткоды UTM-меток
 ![Скриншот 2](screenshots/Screenshot_2.png)
 
-### Интеграция с amoCRM
+### Настройки плагина  
 ![Скриншот 3](screenshots/Screenshot_3.png)
-
-### Результаты работы
-![Скриншот 4](screenshots/Screenshot_4.png)
-
 
 ## Поддержка
 
