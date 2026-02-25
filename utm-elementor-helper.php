@@ -1,14 +1,14 @@
 <?php
 /**
- * Plugin Name: AmoCRM UTM Elementor
- * Plugin URI: https://github.com/RuCoder-sudo/AmoCRM-UTM-Elementor
+ * Plugin Name: UTM Elementor
+ * Plugin URI: https://github.com/RuCoder-sudo/UTM-Elementor
  * Description: Плагин сохраняет UTM-метки в cookies и автоматически подставляет их в Elementor Pro Form.
  * Version: 3.2
  * Author: Сергей Солошенко (RuCoder)
  * Author URI: https://рукодер.рф
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
- * Text Domain: AmoCRM-UTM-Elementor
+ * Text Domain: UTM-Elementor
  * Domain Path: /languages
  * Requires at least: 5.0
  * Tested up to: 6.5
